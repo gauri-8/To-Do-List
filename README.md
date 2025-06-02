@@ -1,5 +1,7 @@
 This is a basic Todo List application
+<br>
 One of my few mini practice projects.
+It is called  <u> tickTHEtask </u>
 
 This project has a usage of :
 1. HTML
